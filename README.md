@@ -1,6 +1,6 @@
 
 
-<div align="center"> ### **Hi there** 👋 </div> 
+ # Hi there 👋
 
 <!--
 **v25anderson/v25anderson** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
